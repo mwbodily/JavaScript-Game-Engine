@@ -1,0 +1,16 @@
+#character
+{
+	height:5px;
+	width:5px;
+	left:170px;
+	top:12px;
+	position:absolute;
+}
+
+#playScreen
+{
+	height:600px;
+	width:600px;
+	border-radius:20px;
+	margin:0 auto;
+}
